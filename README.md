@@ -1,4 +1,4 @@
-# HR Analytics Power BI Project  
+# Benq HR Analytics: Competition and Collaboration
 
 ---
 

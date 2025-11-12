@@ -1,8 +1,8 @@
-# 🧠 HR Analytics Power BI Project  
+# HR Analytics Power BI Project  
 
 ---
 
-## 📘 Overview  
+## Overview  
 This project provides a complete HR Analytics dashboard built using **Microsoft Power BI**,  
 aiming to help management make data-driven decisions regarding employees' performance, satisfaction, attrition, and salary structure.  
 
@@ -11,7 +11,7 @@ allowing HR teams to identify trends, patterns, and issues across the organizati
 
 ---
 
-## 🚩 Problem  
+## Problem  
 Organizations often face challenges like:  
 - Difficulty in **tracking employee satisfaction and engagement**.  
 - Lack of visibility into **why employees leave** and **what factors affect retention**.  
@@ -20,7 +20,7 @@ Organizations often face challenges like:
 
 ---
 
-## 💡 Solution  
+## Solution  
 This project solves these challenges by building a unified **Power BI HR Dashboard** that:  
 - Integrates multiple datasets (Employee, Performance, Salary, Attrition).  
 - Uses DAX calculations to create dynamic insights.  
@@ -29,7 +29,7 @@ This project solves these challenges by building a unified **Power BI HR Dashboa
 
 ---
 
-## 📊 Dataset Overview  
+## Dataset Overview  
 **Source:** Simulated HR dataset cleaned and modeled in Power BI  
 
 **Main Columns Include:**  
@@ -45,9 +45,9 @@ This project solves these challenges by building a unified **Power BI HR Dashboa
 
 ---
 
-## 🏠 Pages Overview  
+## Pages Overview  
 
-### 1️⃣ Home Page  
+### Home Page  
 **Purpose:**  
 Acts as a **navigation hub** to access the main report pages.  
 
@@ -63,7 +63,7 @@ Provides a clean and intuitive start point for users to move between dashboards 
 
 ---
 
-### 2️⃣ Employee Satisfaction & Rating Overview  
+### Employee Satisfaction & Rating Overview  
 **Purpose:**  
 Analyze how employees feel about their work environment and how that relates to performance.  
 
@@ -82,7 +82,7 @@ and where improvements can increase employee engagement.
 
 ---
 
-### 3️⃣ Attrition Dashboard  
+### Attrition Dashboard  
 **Purpose:**  
 Investigate the reasons behind employee turnover and identify risk areas.  
 
@@ -99,7 +99,7 @@ Helps identify patterns behind employee exits and supports better retention stra
 
 ---
 
-### 4️⃣ Salary Dashboard  
+### Salary Dashboard  
 **Purpose:**  
 Understand salary distribution and identify any imbalance in pay structures.  
 
@@ -115,7 +115,7 @@ and helps design fair and competitive compensation strategies.
 
 ---
 
-## 🔗 Dashboard Links & Images  
+## Dashboard Links & Images  
 
 **Power BI Dashboard Link:**  
 [🔗 View Interactive Dashboard]
@@ -128,7 +128,7 @@ and helps design fair and competitive compensation strategies.
 
 ---
 
-## 👥 Team Members  
+## Team Members  
 - Abdelrahman Mahmoud -- review the data cleaning processes for all three to ensure the underlying data is unified and clean.
 - Hagar Gamal -- review the final insights to ensure they meet business needs.
 - Hassan Magdy Elshaer -- responsible for unifying the visual design (color schemes, fonts, etc.) across all dashboards and building the main page that links them together.
@@ -138,7 +138,7 @@ and helps design fair and competitive compensation strategies.
 
 ---
 
-## 🎓 Under Supervision  
+## Under Supervision  
 **Instructor: Abdelrahman Ashour 
 **Program:** Data Analytics – DEPI Egypt  
 **Tools:** Microsoft Power BI, Power Query, DAX  
@@ -146,7 +146,7 @@ and helps design fair and competitive compensation strategies.
 
 ---
 
-## 🧭 Summary  
+## Summary  
 The HR Analytics Dashboard offers a complete analytical view of workforce performance, satisfaction, and compensation.  
 It enables decision-makers to:  
 - Detect attrition risks early.  

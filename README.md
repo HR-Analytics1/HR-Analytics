@@ -121,10 +121,10 @@ and helps design fair and competitive compensation strategies.
 [🔗 View Interactive Dashboard]
 
 **Dashboard Preview Images:**  
-- [Home Page]([home_page.png](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Home%20Page.png))  
-- [Employee Satisfaction Overview]([satisfaction_page.png](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Employee%20Satisfaction%20and%20Rating%20Overview.png))  
-- [Attrition Dashboard]([attrition_page.png](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Attrition%20Dashboard.png))  
-- [Salary Dashboard]([salary_page.png](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Salary%20Dashboard.png))  
+- [Home Page](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Home%20Page.png) 
+- [Employee Satisfaction Overview](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Employee%20Satisfaction%20and%20Rating%20Overview.png)
+- [Attrition Dashboard](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Attrition%20Dashboard.png)
+- [Salary Dashboard](https://github.com/HR-Analytics1/HR-Analytics/blob/main/Template/Salary%20Dashboard.png)
 
 ---
 

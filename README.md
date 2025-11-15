@@ -129,6 +129,7 @@ and helps design fair and competitive compensation strategies.
 ---
 
 ## Team Members  
+<<<<<<< HEAD
 - Abdelrahman Mahmoud -- review the data cleaning processes for all three to ensure the underlying data is unified and clean.
 - Hagar Gamal -- review the final insights to ensure they meet business needs.
 - Hassan Magdy Elshaer -- responsible for unifying the visual design (color schemes, fonts, etc.) across all dashboards and building the main page that links them together.
@@ -136,6 +137,14 @@ and helps design fair and competitive compensation strategies.
 - Zeyad Mahmoud Mohamed -- review the DAX formulas in the three chosen dashboards to ensure they are accurate and consistent.
 - Ibrahim Kamal Alzayat
 
+=======
+- Abdelrahman Mahmoud -- Designs unified visual identity and builds main navigation page.
+- Hagar Gamal -- Reviews insights and ensures business relevance of findings.
+- Hassan Magdy Elshaer -- Leads data cleaning and ensures data consistency.
+- Mariam Mustafa Ali -- Supports data visualization and assists in layout improvements.
+- Zeyad Mahmoud Mohamed -- Reviews and validates DAX formulas for accuracy and consistency.
+- Ibrahim Kamal Alzayat -- Team lead; coordinates final integration and oversees quality.
+>>>>>>> 7293f83a582116c1d44d8cd90c338addd842aecf
 ---
 
 ## Under Supervision  
